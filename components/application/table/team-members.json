@@ -1,0 +1,1819 @@
+{
+  "items": [
+    {
+      "name": "Luis José Bastos Mota Barroso",
+      "username": "@s001-luis-jose",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Honorário",
+          "color": "warning"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/abraham-baker?fm=webp&q=80&w=100",
+      "numeroSocio": "001",
+      "gender": "homem"
+    },
+    {
+      "name": "João Anibal Gonçalves de Sousa",
+      "username": "@s002-joao-anibal",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/adem-lane?fm=webp&q=80&w=100",
+      "numeroSocio": "002",
+      "gender": "homem"
+    },
+    {
+      "name": "Manuel da Silva Alves",
+      "username": "@s003-manuel-da",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/adil-floyd?fm=webp&q=80&w=100",
+      "numeroSocio": "003",
+      "gender": "homem"
+    },
+    {
+      "name": "José Alvaro da Cruz Viana",
+      "username": "@s004-jose-alvaro",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/alec-whitten?fm=webp&q=80&w=100",
+      "numeroSocio": "004",
+      "gender": "homem"
+    },
+    {
+      "name": "Antonino Viana Barbosa",
+      "username": "@s005-antonino-viana",
+      "status": "Regularizado",
+      "email": "antonino.barbosa@sapo.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ali-mahdi?fm=webp&q=80&w=100",
+      "numeroSocio": "005",
+      "gender": "homem"
+    },
+    {
+      "name": "José Rosário Barros Silva",
+      "username": "@s006-jose-rosario",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ammar-foley?fm=webp&q=80&w=100",
+      "numeroSocio": "006",
+      "gender": "homem"
+    },
+    {
+      "name": "José Magalhães Oliveira",
+      "username": "@s007-jose-magalhaes",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ashton-blackwell?fm=webp&q=80&w=100",
+      "numeroSocio": "007",
+      "gender": "homem"
+    },
+    {
+      "name": "Fernando João da Cruz Barros",
+      "username": "@s008-fernando-joao",
+      "status": "Regularizado",
+      "email": "fernando.cruz.barros@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ashwin-santiago?fm=webp&q=80&w=100",
+      "numeroSocio": "008",
+      "gender": "homem"
+    },
+    {
+      "name": "Nuno Augusto Gomes Pereira",
+      "username": "@s009-nuno-augusto",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/aston-hood?fm=webp&q=80&w=100",
+      "numeroSocio": "009",
+      "gender": "homem"
+    },
+    {
+      "name": "Pedro Manuel Rufino de Sousa",
+      "username": "@s010-pedro-manuel",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/benedict-doherty?fm=webp&q=80&w=100",
+      "numeroSocio": "010",
+      "gender": "homem"
+    },
+    {
+      "name": "Armindo Fernando P. Fernandes",
+      "username": "@s011-armindo-fernando",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/blake-riley?fm=webp&q=80&w=100",
+      "numeroSocio": "011",
+      "gender": "homem"
+    },
+    {
+      "name": "António Pedro Oliveira Carvalhosa",
+      "username": "@s012-antonio-pedro",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/byron-robertson?fm=webp&q=80&w=100",
+      "numeroSocio": "012",
+      "gender": "homem"
+    },
+    {
+      "name": "João Miguel Oliveira Braga",
+      "username": "@s013-joao-miguel",
+      "status": "Regularizado",
+      "email": "miguelbraga73@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/cameron-yang?fm=webp&q=80&w=100",
+      "numeroSocio": "013",
+      "gender": "homem"
+    },
+    {
+      "name": "Adriano Bandeira da Costa",
+      "username": "@s014-adriano-bandeira",
+      "status": "Regularizado",
+      "email": "adrianocostabandeira@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/clifford-jennings?fm=webp&q=80&w=100",
+      "numeroSocio": "014",
+      "gender": "homem"
+    },
+    {
+      "name": "Cláudio Filipe Nobre  Belo",
+      "username": "@s015-claudio-filipe",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/cohen-lozano?fm=webp&q=80&w=100",
+      "numeroSocio": "015",
+      "gender": "homem"
+    },
+    {
+      "name": "João Martins Fernandes",
+      "username": "@s016-joao-martins",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/danyal-lester?fm=webp&q=80&w=100",
+      "numeroSocio": "016",
+      "gender": "homem"
+    },
+    {
+      "name": "Luis Silva Da Rocha",
+      "username": "@s017-luis-silva",
+      "status": "Regularizado",
+      "email": "luislsr2004@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/dillan-nguyen?fm=webp&q=80&w=100",
+      "numeroSocio": "017",
+      "gender": "homem"
+    },
+    {
+      "name": "Amândio Batista Freire",
+      "username": "@s018-amandio-batista",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/drew-cano?fm=webp&q=80&w=100",
+      "numeroSocio": "018",
+      "gender": "homem"
+    },
+    {
+      "name": "José Augusto Barros Lopes",
+      "username": "@s019-jose-augusto",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/eduard-franz?fm=webp&q=80&w=100",
+      "numeroSocio": "019",
+      "gender": "homem"
+    },
+    {
+      "name": "Pedro Tiago Rocha Fernandes",
+      "username": "@s020-pedro-tiago",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ethan-campbell?fm=webp&q=80&w=100",
+      "numeroSocio": "020",
+      "gender": "homem"
+    },
+    {
+      "name": "Eloi Pinto Amorim",
+      "username": "@s021-eloi-pinto",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ethan-valdez?fm=webp&q=80&w=100",
+      "numeroSocio": "021",
+      "gender": "homem"
+    },
+    {
+      "name": "Cristiano Manuel Fernandes Baptista",
+      "username": "@s022-cristiano-manuel",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/fergus-gray?fm=webp&q=80&w=100",
+      "numeroSocio": "022",
+      "gender": "homem"
+    },
+    {
+      "name": "José Carlos Caridade Barroso",
+      "username": "@s023-jose-carlos",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/frank-whitaker?fm=webp&q=80&w=100",
+      "numeroSocio": "023",
+      "gender": "homem"
+    },
+    {
+      "name": "João Ricardo Martins Fernandes",
+      "username": "@s024-joao-ricardo",
+      "status": "Atraso",
+      "email": "ricardo_lauro99@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/franklin-mays?fm=webp&q=80&w=100",
+      "numeroSocio": "024",
+      "gender": "homem"
+    },
+    {
+      "name": "Vitor Manuel de Jesus Rodrigues",
+      "username": "@s025-vitor-manuel",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/harry-bender?fm=webp&q=80&w=100",
+      "numeroSocio": "025",
+      "gender": "homem"
+    },
+    {
+      "name": "Ricardo Miguel Sagres de Oliveira",
+      "username": "@s026-ricardo-miguel",
+      "status": "Regularizado",
+      "email": "rickboucinha@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/hasan-johns?fm=webp&q=80&w=100",
+      "numeroSocio": "026",
+      "gender": "homem"
+    },
+    {
+      "name": "Ricardo Manuel Lima Pereira",
+      "username": "@s027-ricardo-manuel",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/herbert-fowler?fm=webp&q=80&w=100",
+      "numeroSocio": "027",
+      "gender": "homem"
+    },
+    {
+      "name": "Manuel António Torres Barros",
+      "username": "@s028-manuel-antonio",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/jackson-reed?fm=webp&q=80&w=100",
+      "numeroSocio": "028",
+      "gender": "homem"
+    },
+    {
+      "name": "Luis Miguel Fernandes Braga",
+      "username": "@s029-luis-miguel",
+      "status": "Regularizado",
+      "email": "luismfernandesbraga92@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Presidente Direção",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/jay-shepard?fm=webp&q=80&w=100",
+      "numeroSocio": "029",
+      "gender": "homem"
+    },
+    {
+      "name": "António José Sagres Oliveira",
+      "username": "@s030-antonio-jose",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/jayden-moss?fm=webp&q=80&w=100",
+      "numeroSocio": "030",
+      "gender": "homem"
+    },
+    {
+      "name": "Jorge Manuel Lima da Silva",
+      "username": "@s031-jorge-manuel",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/jonathan-kelly?fm=webp&q=80&w=100",
+      "numeroSocio": "031",
+      "gender": "homem"
+    },
+    {
+      "name": "João Agostinho da Silva Fernandes",
+      "username": "@s032-joao-agostinho",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/jordan-burgess?fm=webp&q=80&w=100",
+      "numeroSocio": "032",
+      "gender": "homem"
+    },
+    {
+      "name": "Ricardo Alberto Teixeira Rodrigues",
+      "username": "@s033-ricardo-alberto",
+      "status": "Regularizado",
+      "email": "ra.rodrigues@sapo.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Tesoureiro Direção",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/joshua-wilson?fm=webp&q=80&w=100",
+      "numeroSocio": "033",
+      "gender": "homem"
+    },
+    {
+      "name": "João Marcelo Boucinha Barbosa",
+      "username": "@s034-joao-marcelo",
+      "status": "Atraso",
+      "email": "jotambbarbosa@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Secretário Direção",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/julius-vaughan?fm=webp&q=80&w=100",
+      "numeroSocio": "034",
+      "gender": "homem"
+    },
+    {
+      "name": "André Santos Barros",
+      "username": "@s035-andre-santos",
+      "status": "Atraso",
+      "email": "andrebarros96@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Vogal Direção",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/kaden-scott?fm=webp&q=80&w=100",
+      "numeroSocio": "035",
+      "gender": "homem"
+    },
+    {
+      "name": "Ricardo André Baptista Gonçalves",
+      "username": "@s036-ricardo-andre",
+      "status": "Regularizado",
+      "email": "ricardodesign_7@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Vogal Direção",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/koray-okumus?fm=webp&q=80&w=100",
+      "numeroSocio": "036",
+      "gender": "homem"
+    },
+    {
+      "name": "Eduardo Santos Amorim",
+      "username": "@s037-eduardo-santos",
+      "status": "Atraso",
+      "email": "eduardo_1996@live.com.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Presidente Assembleia",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/levi-rocha?fm=webp&q=80&w=100",
+      "numeroSocio": "037",
+      "gender": "homem"
+    },
+    {
+      "name": "Abel Cristóvão Gonçalves Antunes",
+      "username": "@s038-abel-cristovao",
+      "status": "Regularizado",
+      "email": "acga_28@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Primeiro Secretário Assembleia",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/leyton-fields?fm=webp&q=80&w=100",
+      "numeroSocio": "038",
+      "gender": "homem"
+    },
+    {
+      "name": "Luis Carlos Pereira da Costa",
+      "username": "@s039-luis-carlos",
+      "status": "Regularizado",
+      "email": "lcosta86@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Segundo Secretário Assembleia",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/liam-hood?fm=webp&q=80&w=100",
+      "numeroSocio": "039",
+      "gender": "homem"
+    },
+    {
+      "name": "José Carlos Pereira de Brito",
+      "username": "@s040-jose-carlos",
+      "status": "Regularizado",
+      "email": "Carlosbritocrosscal@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Presidente Concelho Fiscal",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/loki-bright?fm=webp&q=80&w=100",
+      "numeroSocio": "040",
+      "gender": "homem"
+    },
+    {
+      "name": "Diogo Tomás Maciel Lima",
+      "username": "@s041-diogo-tomas",
+      "status": "Regularizado",
+      "email": "Diogomlima01@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Primeiro Secretário Concelho Fiscal",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/luqman-anthony?fm=webp&q=80&w=100",
+      "numeroSocio": "041",
+      "gender": "homem"
+    },
+    {
+      "name": "Pedro Miguel Gomes de Lima",
+      "username": "@s042-pedro-miguel",
+      "status": "Regularizado",
+      "email": "pedro.lima.epi@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        },
+        {
+          "name": "Segundo Secretário Concelho Fiscal",
+          "color": "purple"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/lyle-kauffman?fm=webp&q=80&w=100",
+      "numeroSocio": "042",
+      "gender": "homem"
+    },
+    {
+      "name": "Carlos Agostinho Santos Felgueiras",
+      "username": "@s043-carlos-agostinho",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/marco-gross?fm=webp&q=80&w=100",
+      "numeroSocio": "043",
+      "gender": "homem"
+    },
+    {
+      "name": "Helder José Fagundes Bandeira",
+      "username": "@s044-helder-jose",
+      "status": "Regularizado",
+      "email": "bandeirahelder299@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/marco-kelly?fm=webp&q=80&w=100",
+      "numeroSocio": "044",
+      "gender": "homem"
+    },
+    {
+      "name": "Roberta Fernanda Barroso Vieira",
+      "username": "@s045-roberta-fernanda",
+      "status": "Regularizado",
+      "email": "robertavieira@live.com.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/adriana-sullivan?fm=webp&q=80&w=100",
+      "numeroSocio": "045",
+      "gender": "mulher"
+    },
+    {
+      "name": "Andreia Raquel Barroso Vieira",
+      "username": "@s046-andreia-raquel",
+      "status": "Regularizado",
+      "email": "andreia.bvieira@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/alesha-barry?fm=webp&q=80&w=100",
+      "numeroSocio": "046",
+      "gender": "mulher"
+    },
+    {
+      "name": "Paulo André da Cruz Viana",
+      "username": "@s047-paulo-andre",
+      "status": "Regularizado",
+      "email": "paulocruzviana@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/marvin-robbins?fm=webp&q=80&w=100",
+      "numeroSocio": "047",
+      "gender": "homem"
+    },
+    {
+      "name": "Diogo Emanuel Fernandes Barros",
+      "username": "@s048-diogo-emanuel",
+      "status": "Regularizado",
+      "email": "diogobife@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/maxwell-tan?fm=webp&q=80&w=100",
+      "numeroSocio": "048",
+      "gender": "homem"
+    },
+    {
+      "name": "Eurico Xavier Lopes Pinto",
+      "username": "@s049-eurico-xavier",
+      "status": "Atraso",
+      "email": "euricoestufa@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/mikey-lawrence?fm=webp&q=80&w=100",
+      "numeroSocio": "049",
+      "gender": "homem"
+    },
+    {
+      "name": "Tiago Manuel Carvalho Fernandes",
+      "username": "@s050-tiago-manuel",
+      "status": "Regularizado",
+      "email": "tyagu.morerno@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/nic-fassbender?fm=webp&q=80&w=100",
+      "numeroSocio": "050",
+      "gender": "homem"
+    },
+    {
+      "name": "Luis Miguel Lima Viana",
+      "username": "@s051-luis-miguel",
+      "status": "Atraso",
+      "email": "luismlviana@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/nicolas-trevino?fm=webp&q=80&w=100",
+      "numeroSocio": "051",
+      "gender": "homem"
+    },
+    {
+      "name": "Paulo Cesar Bandeira Melo",
+      "username": "@s052-paulo-cesar",
+      "status": "Regularizado",
+      "email": "melinho24@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/nicolas-wang?fm=webp&q=80&w=100",
+      "numeroSocio": "052",
+      "gender": "homem"
+    },
+    {
+      "name": "José Manuel Barros Fernandes",
+      "username": "@s053-jose-manuel",
+      "status": "Atraso",
+      "email": "jose_fernandes20@Live.com.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/nikolas-gibbons?fm=webp&q=80&w=100",
+      "numeroSocio": "053",
+      "gender": "homem"
+    },
+    {
+      "name": "Luis Filipe Caridade Amaral",
+      "username": "@s054-luis-filipe",
+      "status": "Regularizado",
+      "email": "filipeamaral1971@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/noah-pierre?fm=webp&q=80&w=100",
+      "numeroSocio": "054",
+      "gender": "homem"
+    },
+    {
+      "name": "Sergio Alexandre Lima Malheiro",
+      "username": "@s055-sergio-alexandre",
+      "status": "Regularizado",
+      "email": "sergiomalheiro_1@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/noel-baldwin?fm=webp&q=80&w=100",
+      "numeroSocio": "055",
+      "gender": "homem"
+    },
+    {
+      "name": "Cristovao Emanuel Nunes Araujo",
+      "username": "@s056-cristovao-emanuel",
+      "status": "Regularizado",
+      "email": "cristovaoaraujo095@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/olly-schroeder?fm=webp&q=80&w=100",
+      "numeroSocio": "056",
+      "gender": "homem"
+    },
+    {
+      "name": "Nuno Filipe Fernandes Dantas",
+      "username": "@s057-nuno-filipe",
+      "status": "Regularizado",
+      "email": "nuno.dantas27@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/orlando-diggs?fm=webp&q=80&w=100",
+      "numeroSocio": "057",
+      "gender": "homem"
+    },
+    {
+      "name": "Helder Jesus Pereira Gonçalves",
+      "username": "@s058-helder-jesus",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/owen-garcia?fm=webp&q=80&w=100",
+      "numeroSocio": "058",
+      "gender": "homem"
+    },
+    {
+      "name": "João Dantas Esteves",
+      "username": "@s059-joao-dantas",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/owen-harding?fm=webp&q=80&w=100",
+      "numeroSocio": "059",
+      "gender": "homem"
+    },
+    {
+      "name": "Eduardo Correia Malheiro",
+      "username": "@s060-eduardo-correia",
+      "status": "Regularizado",
+      "email": "eduardo.m.c@hotmail.fr",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/phoenix-baker?fm=webp&q=80&w=100",
+      "numeroSocio": "060",
+      "gender": "homem"
+    },
+    {
+      "name": "Sergio Fernandes",
+      "username": "@s061-sergio-fernandes",
+      "status": "Atraso",
+      "email": "Sedofe@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/rayhan-zua?fm=webp&q=80&w=100",
+      "numeroSocio": "061",
+      "gender": "homem"
+    },
+    {
+      "name": "Armando Miguel Silva Ramos",
+      "username": "@s062-armando-miguel",
+      "status": "Atraso",
+      "email": "miguel-ramos-32@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/rory-huff?fm=webp&q=80&w=100",
+      "numeroSocio": "062",
+      "gender": "homem"
+    },
+    {
+      "name": "Nicolau José Pereira Bandeira",
+      "username": "@s063-nicolau-jose",
+      "status": "Regularizado",
+      "email": "nicolau-bandeira@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/scott-clayton?fm=webp&q=80&w=100",
+      "numeroSocio": "063",
+      "gender": "homem"
+    },
+    {
+      "name": "Manuel Agostinho Pinto Pereira",
+      "username": "@s064-manuel-agostinho",
+      "status": "Regularizado",
+      "email": "mp9149958@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/stefan-sears?fm=webp&q=80&w=100",
+      "numeroSocio": "064",
+      "gender": "homem"
+    },
+    {
+      "name": "Alexandre Pereira Bandeira",
+      "username": "@s065-alexandre-pereira",
+      "status": "Regularizado",
+      "email": "alexandre.bandeira6729@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/youssef-roberson?fm=webp&q=80&w=100",
+      "numeroSocio": "065",
+      "gender": "homem"
+    },
+    {
+      "name": "Ricardo Filipe da Cruz Pereira",
+      "username": "@s066-ricardo-filipe",
+      "status": "Regularizado",
+      "email": "rspereira850@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/zahir-mays?fm=webp&q=80&w=100",
+      "numeroSocio": "066",
+      "gender": "homem"
+    },
+    {
+      "name": "Sandra da Conceição do Casal Barbosa",
+      "username": "@s067-sandra-da",
+      "status": "Regularizado",
+      "email": "rspereira850@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/aliah-lane?fm=webp&q=80&w=100",
+      "numeroSocio": "067",
+      "gender": "mulher"
+    },
+    {
+      "name": "José António Ferreira",
+      "username": "@s068-jose-antonio",
+      "status": "Regularizado",
+      "email": "zelimiano@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/zaid-schwartz?fm=webp&q=80&w=100",
+      "numeroSocio": "068",
+      "gender": "homem"
+    },
+    {
+      "name": "José Eduardo Ferreira Amorim",
+      "username": "@s070-jose-eduardo",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/alisa-hester?fm=webp&q=80&w=100",
+      "numeroSocio": "070",
+      "gender": "homem"
+    },
+    {
+      "name": "👦 David de Brito",
+      "username": "@s071-david-de",
+      "status": "Regularizado",
+      "email": "Carlosbritocrosscal@gmail.com",
+      "tipo": [
+        {
+          "name": "Criança",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/amanda-lowery?fm=webp&q=80&w=100",
+      "numeroSocio": "071",
+      "gender": "homem"
+    },
+    {
+      "name": "👦 Beatriz Bandeira da Costa",
+      "username": "@s072-beatriz-bandeira",
+      "status": "Regularizado",
+      "email": "lcosta86@hotmail.com",
+      "tipo": [
+        {
+          "name": "Criança",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/amelie-bennett?fm=webp&q=80&w=100",
+      "numeroSocio": "072",
+      "gender": "homem"
+    },
+    {
+      "name": "👦 Margarida Bandeira Conde",
+      "username": "@s073-margarida-bandeira",
+      "status": "Regularizado",
+      "email": "lcosta86@hotmail.com",
+      "tipo": [
+        {
+          "name": "Criança",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/amelie-laurent?fm=webp&q=80&w=100",
+      "numeroSocio": "073",
+      "gender": "homem"
+    },
+    {
+      "name": "Emanuel Jesus Pereira Silva",
+      "username": "@s074-emanuel-jesus",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/anaiah-whitten?fm=webp&q=80&w=100",
+      "numeroSocio": "074",
+      "gender": "homem"
+    },
+    {
+      "name": "Tiago Nuno Fernandes da Costa",
+      "username": "@s075-tiago-nuno",
+      "status": "Atraso",
+      "email": "prettuh@hotmail.fr",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/andi-lane?fm=webp&q=80&w=100",
+      "numeroSocio": "075",
+      "gender": "homem"
+    },
+    {
+      "name": "Carlos da Costa Macedo",
+      "username": "@s076-carlos-da",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/angelica-wallace?fm=webp&q=80&w=100",
+      "numeroSocio": "076",
+      "gender": "homem"
+    },
+    {
+      "name": "Joana Margarida Pereira Loureiro",
+      "username": "@s077-joana-margarida",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/anita-cruz?fm=webp&q=80&w=100",
+      "numeroSocio": "077",
+      "gender": "mulher"
+    },
+    {
+      "name": "Fabio Jorge Magalhães Baptista",
+      "username": "@s078-fabio-jorge",
+      "status": "Atraso",
+      "email": "Baptista95fabio@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ava-bentley?fm=webp&q=80&w=100",
+      "numeroSocio": "078",
+      "gender": "homem"
+    },
+    {
+      "name": "Manuel Agostinho da Costa Pereira",
+      "username": "@s079-manuel-agostinho",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ava-wright?fm=webp&q=80&w=100",
+      "numeroSocio": "079",
+      "gender": "homem"
+    },
+    {
+      "name": "João António Sagres Esteves",
+      "username": "@s080-joao-antonio",
+      "status": "Regularizado",
+      "email": "antonio.sesteves@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/ayah-wilkinson?fm=webp&q=80&w=100",
+      "numeroSocio": "080",
+      "gender": "homem"
+    },
+    {
+      "name": "José Maria Maciel Lima",
+      "username": "@s081-jose-maria",
+      "status": "Atraso",
+      "email": "josemmlima71@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/aysha-becker?fm=webp&q=80&w=100",
+      "numeroSocio": "081",
+      "gender": "homem"
+    },
+    {
+      "name": "José António Maciel Lima",
+      "username": "@s082-jose-antonio",
+      "status": "Atraso",
+      "email": "joseamlima97@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/bailey-richards?fm=webp&q=80&w=100",
+      "numeroSocio": "082",
+      "gender": "homem"
+    },
+    {
+      "name": "Vítor Hugo dos Santos de Lima",
+      "username": "@s083-vitor-hugo",
+      "status": "Regularizado",
+      "email": "vitorhugosantoslima1996@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/bec-ferguson?fm=webp&q=80&w=100",
+      "numeroSocio": "083",
+      "gender": "homem"
+    },
+    {
+      "name": "👦 Leandro Freitas Batista",
+      "username": "@s084-leandro-freitas",
+      "status": "Atraso",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Criança",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/belle-woods?fm=webp&q=80&w=100",
+      "numeroSocio": "084",
+      "gender": "homem"
+    },
+    {
+      "name": "Tiago da Costa Carvalho",
+      "username": "@s085-tiago-da",
+      "status": "Atraso",
+      "email": "tiagopelo@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/billie-wright?fm=webp&q=80&w=100",
+      "numeroSocio": "085",
+      "gender": "homem"
+    },
+    {
+      "name": "Tiago Oliveira Martins Fernandes",
+      "username": "@s086-tiago-oliveira",
+      "status": "Regularizado",
+      "email": "tigaoomfern@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/brianna-ware?fm=webp&q=80&w=100",
+      "numeroSocio": "086",
+      "gender": "homem"
+    },
+    {
+      "name": "Silvino José da Silva Gonçalves",
+      "username": "@s087-silvino-jose",
+      "status": "Regularizado",
+      "email": "binosg@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/caitlyn-king?fm=webp&q=80&w=100",
+      "numeroSocio": "087",
+      "gender": "homem"
+    },
+    {
+      "name": "João José Miranda da Silva",
+      "username": "@s088-joao-jose",
+      "status": "Regularizado",
+      "email": "jsportugal27@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/candice-wu?fm=webp&q=80&w=100",
+      "numeroSocio": "088",
+      "gender": "homem"
+    },
+    {
+      "name": "Agostinho da Silva Bezerra",
+      "username": "@s089-agostinho-da",
+      "status": "Regularizado",
+      "email": "bezerraagostinho927@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/courtney-turner?fm=webp&q=80&w=100",
+      "numeroSocio": "089",
+      "gender": "homem"
+    },
+    {
+      "name": "Nídia Adriana Gonçalves Antunes",
+      "username": "@s090-nidia-adriana",
+      "status": "Regularizado",
+      "email": "nidiaantunes16@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/demi-wilkinson?fm=webp&q=80&w=100",
+      "numeroSocio": "090",
+      "gender": "mulher"
+    },
+    {
+      "name": "Nelson Alexandre da Costa Carvalho",
+      "username": "@s091-nelson-alexandre",
+      "status": "Expulso",
+      "email": "Nelson.carvalho@vorwerk.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/elena-owens?fm=webp&q=80&w=100",
+      "numeroSocio": "091",
+      "gender": "homem"
+    },
+    {
+      "name": "Bruno Marcelo Dantas Lima",
+      "username": "@s092-bruno-marcelo",
+      "status": "Regularizado",
+      "email": "brunomlima@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/elisa-nishikawa?fm=webp&q=80&w=100",
+      "numeroSocio": "092",
+      "gender": "homem"
+    },
+    {
+      "name": "Vitor Manuel Lima Amorim",
+      "username": "@s093-vitor-manuel",
+      "status": "Regularizado",
+      "email": "vitor.amorim@live.com.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/elsie-roy?fm=webp&q=80&w=100",
+      "numeroSocio": "093",
+      "gender": "homem"
+    },
+    {
+      "name": "Ricardo Bruno da Rocha Torres",
+      "username": "@s094-ricardo-bruno",
+      "status": "Atraso",
+      "email": "Bruno.torres@baltor.pt",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/erica-wyatt?fm=webp&q=80&w=100",
+      "numeroSocio": "094",
+      "gender": "homem"
+    },
+    {
+      "name": "Micael Filipe Alves Cerqueira",
+      "username": "@s095-micael-filipe",
+      "status": "Atraso",
+      "email": "micael.fa.cerqueira@icloud.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/eva-bond?fm=webp&q=80&w=100",
+      "numeroSocio": "095",
+      "gender": "homem"
+    },
+    {
+      "name": "Avelino Fernandes Dantas",
+      "username": "@s096-avelino-fernandes",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/eve-leroy?fm=webp&q=80&w=100",
+      "numeroSocio": "096",
+      "gender": "homem"
+    },
+    {
+      "name": "Ivone Marlene Pereira Amorim",
+      "username": "@s097-ivone-marlene",
+      "status": "Atraso",
+      "email": "sedofe@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/fleur-cook?fm=webp&q=80&w=100",
+      "numeroSocio": "097",
+      "gender": "homem"
+    },
+    {
+      "name": "Joaquim Manuel da Silva Costa",
+      "username": "@s098-joaquim-manuel",
+      "status": "Notificado",
+      "email": "quimzinho.oficial@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/florence-shaw?fm=webp&q=80&w=100",
+      "numeroSocio": "098",
+      "gender": "homem"
+    },
+    {
+      "name": "Pedro André Bandeira da Costa",
+      "username": "@s099-pedro-andre",
+      "status": "Regularizado",
+      "email": "pedrocosta-pedroc@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/freya-browning?fm=webp&q=80&w=100",
+      "numeroSocio": "099",
+      "gender": "homem"
+    },
+    {
+      "name": "Jorge Manuel Norton Caixeiro",
+      "username": "@s100-jorge-manuel",
+      "status": "Atraso",
+      "email": "nortonjorge193@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/genevieve-mclean?fm=webp&q=80&w=100",
+      "numeroSocio": "100",
+      "gender": "homem"
+    },
+    {
+      "name": "Nuno Ricardo Reis Rodrigues",
+      "username": "@s101-nuno-ricardo",
+      "status": "Atraso",
+      "email": "ricardoviolas28@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/harriet-rojas?fm=webp&q=80&w=100",
+      "numeroSocio": "101",
+      "gender": "homem"
+    },
+    {
+      "name": "Rita sofia Duarte Cabreiro",
+      "username": "@s102-rita-sofia",
+      "status": "Notificado",
+      "email": "quimzinho.oficial@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/isla-allison?fm=webp&q=80&w=100",
+      "numeroSocio": "102",
+      "gender": "mulher"
+    },
+    {
+      "name": "Marco André Faria da Costa Nogueira",
+      "username": "@s103-marco-andre",
+      "status": "Atraso",
+      "email": "marconogueira042@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/isobel-carroll?fm=webp&q=80&w=100",
+      "numeroSocio": "103",
+      "gender": "homem"
+    },
+    {
+      "name": "Eusébio Fernando Slagado Costa",
+      "username": "@s104-eusebio-fernando",
+      "status": "Regularizado",
+      "email": "eusebiocosta77@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/isobel-fuller?fm=webp&q=80&w=100",
+      "numeroSocio": "104",
+      "gender": "homem"
+    },
+    {
+      "name": "Hélder Fernando Barros Costa",
+      "username": "@s105-helder-fernando",
+      "status": "Regularizado",
+      "email": "costahelder752@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/jaya-willis?fm=webp&q=80&w=100",
+      "numeroSocio": "105",
+      "gender": "homem"
+    },
+    {
+      "name": "João José da Costa Gonçalves",
+      "username": "@s106-joao-jose",
+      "status": "Atraso",
+      "email": "fcprenovation78@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/jessie-meyton?fm=webp&q=80&w=100",
+      "numeroSocio": "106",
+      "gender": "homem"
+    },
+    {
+      "name": "Rui Ferreira Batista",
+      "username": "@s107-rui-ferreira",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/kaitlin-hale?fm=webp&q=80&w=100",
+      "numeroSocio": "107",
+      "gender": "homem"
+    },
+    {
+      "name": "Elsa Cerqueira",
+      "username": "@s108-elsa-cerqueira",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/kari-rasmussen?fm=webp&q=80&w=100",
+      "numeroSocio": "108",
+      "gender": "mulher"
+    },
+    {
+      "name": "👦 Clara Cerqueira Fernandes",
+      "username": "@s109-clara-cerqueira",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Criança",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/kate-morrison?fm=webp&q=80&w=100",
+      "numeroSocio": "109",
+      "gender": "homem"
+    },
+    {
+      "name": "👦 Carolina Cerqueira Fernandes",
+      "username": "@s110-carolina-cerqueira",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Criança",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/katherine-moss?fm=webp&q=80&w=100",
+      "numeroSocio": "110",
+      "gender": "homem"
+    },
+    {
+      "name": "Júlio Alves Araújo",
+      "username": "@s111-julio-alves",
+      "status": "Regularizado",
+      "email": "julioaraujo75@gmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/katy-fuller?fm=webp&q=80&w=100",
+      "numeroSocio": "111",
+      "gender": "homem"
+    },
+    {
+      "name": "👦 Lara Filipa Lima Loureiro",
+      "username": "@s112-lara-filipa",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Criança",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/kelly-williams?fm=webp&q=80&w=100",
+      "numeroSocio": "112",
+      "gender": "homem"
+    },
+    {
+      "name": "João Ricardo Barros Loureiro",
+      "username": "@s113-joao-ricardo",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/kelsey-lowe?fm=webp&q=80&w=100",
+      "numeroSocio": "113",
+      "gender": "homem"
+    },
+    {
+      "name": "Andreia Vieira de Sousa",
+      "username": "@s114-andreia-vieira",
+      "status": "Regularizado",
+      "email": "drika.andreia@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/kyla-clay?fm=webp&q=80&w=100",
+      "numeroSocio": "114",
+      "gender": "mulher"
+    },
+    {
+      "name": "Hélder Dantas Ferreira",
+      "username": "@s115-helder-dantas",
+      "status": "Regularizado",
+      "email": "helderferreira_21@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/lana-steiner?fm=webp&q=80&w=100",
+      "numeroSocio": "115",
+      "gender": "homem"
+    },
+    {
+      "name": "Jessica Mariza Fernandes de Brito",
+      "username": "@s116-jessica-mariza",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/lily-rose-chedjou?fm=webp&q=80&w=100",
+      "numeroSocio": "116",
+      "gender": "mulher"
+    },
+    {
+      "name": "Eduardo César Pereira da Cunha",
+      "username": "@s117-eduardo-cesar",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/lola-sanders?fm=webp&q=80&w=100",
+      "numeroSocio": "117",
+      "gender": "homem"
+    },
+    {
+      "name": "Edouard Norton",
+      "username": "@s118-edouard-norton",
+      "status": "Regularizado",
+      "email": "-",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/lori-bryson?fm=webp&q=80&w=100",
+      "numeroSocio": "118",
+      "gender": "homem"
+    },
+    {
+      "name": "João Rafael Bandeira Carvalhosa",
+      "username": "@s119-joao-rafael",
+      "status": "Regularizado",
+      "email": "rafa.carvalhosa@hotmail.com",
+      "tipo": [
+        {
+          "name": "Sócio",
+          "color": "gray"
+        }
+      ],
+      "avatarUrl": "https://www.untitledui.com/images/avatars/lucy-bond?fm=webp&q=80&w=100",
+      "numeroSocio": "119",
+      "gender": "homem"
+    }
+  ],
+  "total": 118
+}
