@@ -1,17 +1,15 @@
-import { AppSidebar } from "@/components/app-sidebar"
-import { SiteHeader } from "@/components/site-header"
-import { AvatarProfilePhoto } from "@/components/base/avatar/avatar-profile-photo";
-import {
-  SidebarInset,
-  SidebarProvider,
-} from "@/components/ui/sidebar"
+import {AppSidebar} from "@/components/app-sidebar";
+import {SiteHeader} from "@/components/site-header";
+import {AvatarProfilePhoto} from "@/components/base/avatar/avatar-profile-photo";
+import {SidebarInset, SidebarProvider} from "@/components/ui/sidebar";
+import ModalEditProfile from "@/components/modals/editProfile";
 
 const profileStats = [
-  { label: "Tempo", value: "4 anos" },
-  { label: "Motos", value: "3" },
-  { label: "Eventos", value: "12" },
-  { label: "Seguidores", value: "32.086" },
-]
+  {label: "Tempo", value: "4 anos"},
+  {label: "Motos", value: "3"},
+  {label: "Eventos", value: "12"},
+  {label: "Seguidores", value: "32.086"},
+];
 
 export default function Table1() {
   return (
@@ -66,6 +64,9 @@ export default function Table1() {
                       </div>
                     </div>
                   </div>
+                </div>
+                <div className="w-full h-auto p-10">
+                    <ModalEditProfile/>
                 </div>
               </div>
             </div>
